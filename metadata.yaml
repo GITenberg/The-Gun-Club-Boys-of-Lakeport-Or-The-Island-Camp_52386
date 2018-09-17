@@ -1,0 +1,34 @@
+_repo: The-Gun-Club-Boys-of-Lakeport-Or-The-Island-Camp_52386
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Steward, Ray M.
+    - Bonehill, Captain Ralph
+    - Bonehill, Ralph
+    - Winfield, Arthur M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2016-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting stories'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Bullies -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- GITenberg
+title: The Gun Club Boys of Lakeport; Or, The Island Camp
+url: http://www.gutenberg.org/ebooks/52386
