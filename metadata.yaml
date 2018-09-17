@@ -1,5 +1,8 @@
 _repo: The-Gun-Club-Boys-of-Lakeport-Or-The-Island-Camp_52386
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52386-h/images/cover.jpg
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52386#The-Gun-Club-Boys-of-Lakeport-Or-The-Island-Camp
 gutenberg_issued: '2016-06-23'
 gutenberg_type: Text
 identifiers:
